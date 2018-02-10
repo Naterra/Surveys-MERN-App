@@ -1,8 +1,8 @@
 # Survey App
 Build with a MERN stack (Mongo, Express, React, Node).
 
-![survey_app](https://user-images.githubusercontent.com/8204364/36067050-82617e40-0e83-11e8-8a12-b9ef6d1be8cb.gif)
-
+![survey_app_2](https://user-images.githubusercontent.com/8204364/36067072-e76737da-0e83-11e8-84c6-4a9529bf2923.gif)
+ 
 Simple App implementing functionalities for communication  with customers.
 App users may create a survey and send it via email 
 for multiple receivers. Each email contans  a text message and possible 
