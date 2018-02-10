@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 function localtunnel {
       lt -s lunalunasubdomain --port 5000
 }
